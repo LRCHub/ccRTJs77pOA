@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ミルククラウン・オン・ソーネチカ",
+  "base_artist": "日野森雫",
+  "createdAt": "2025-12-18T08:32:17.946756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "TOUYU",
+      "has_synced": true,
+      "path": "select/01_ミルククラウン・オン・ソーネチカ_TOUYU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミルククラウン　オン　ソーネチカ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/02_ミルククラウン_オン_ソーネチカ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ (feat. 花里みのり&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ミルククラウン・オン・ソーネチカ_(feat._花里みのり&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/04_ミルククラウン・オン・ソーネチカ_MORE_MORE_JUMP!_feat._花里みのり&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "ユジー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ミルククラウン・オン・ソーネチカ_ユジー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "ユジー feat. 38番",
+      "has_synced": true,
+      "path": "select/06_ミルククラウン・オン・ソーネチカ_ユジー_feat._38番.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_ミルククラウン・オン・ソーネチカ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ(カバー)",
+      "artist": "38番",
+      "has_synced": false,
+      "path": "select/08_ミルククラウン・オン・ソーネチカ(カバー)_38番.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ (feat. 花里みのり & 日野森雫 & 初音ミク)",
+      "artist": "More more jump！",
+      "has_synced": true,
+      "path": "select/09_ミルククラウン・オン・ソーネチカ_(feat._花里みのり_&_日野森雫_&_初音ミク)_More_more_jump!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ (feat. 花里みのり & 日野森雫 &...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/10_ミルククラウン・オン・ソーネチカ_(feat._花里みのり_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&日野森雫&Hatsune Miku",
+      "has_synced": true,
+      "path": "select/11_ミルククラウン・オン・ソーネチカ_MORE_MORE_JUMP!_feat._花里みのり&日野森雫&Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/12_ミルククラウン・オン・ソーネチカ_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ミルククラウン・オン・ソーネチカ (feat. 花里みのり & 日野森雫 &...",
+      "artist": "MORE MORE JUMP! - Topic",
+      "has_synced": true,
+      "path": "select/13_ミルククラウン・オン・ソーネチカ_(feat._花里みのり_&_日野森雫_&..._MORE_MORE_JUMP!_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルククラウン・オン・ソーネチカ",
+      "artist": "日野森雫",
+      "has_synced": false,
+      "path": "select/pl_01_ミルククラウン・オン・ソーネチカ_日野森雫.txt"
+    }
+  ]
+}
